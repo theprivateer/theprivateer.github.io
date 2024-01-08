@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2022-05-17
 title: Evening Routine
 ---

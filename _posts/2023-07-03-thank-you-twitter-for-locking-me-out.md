@@ -1,10 +1,7 @@
 ---
 layout: post
-section: content
 title: Thank-you Twitter for locking me out
 date: 2023-07-03
-_description: This is your first blog post.
-_cover_image: /assets/img/post-cover-image-2.png
 ---
 
 On the weekend Twitter introduced its latest 'feature' - you cannot read public tweets [unless you have an account](https://techcrunch.com/2023/06/30/twitter-now-requires-an-account-to-view-tweets/). Whilst the internet collectively rolled its eyes, I let out a sigh of relief.

@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2021-01-17
 title: Adding Reading Time to a Jigsaw Blog
 categories: [development]

@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2017-06-21
 title: Working remotely
 ---

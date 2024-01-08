@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2020-11-14
 title: First video on YouTube
 ---

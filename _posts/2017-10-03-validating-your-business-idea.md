@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2017-10-03
 title: Validating your business idea
 ---

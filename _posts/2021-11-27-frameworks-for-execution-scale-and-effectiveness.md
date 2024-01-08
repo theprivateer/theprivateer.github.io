@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2021-11-27
 title: Frameworks for Execution, Scale and Effectiveness
 ---

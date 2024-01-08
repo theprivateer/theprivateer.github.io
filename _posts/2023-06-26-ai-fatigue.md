@@ -1,9 +1,7 @@
 ---
 layout: post
-section: content
 title: AI Fatigue
 date: 2023-06-26
-_description: This is your first blog post.
 ---
 
 It seems that every other tech story or product launch is about AI, and I'm getting kind of bored of it.

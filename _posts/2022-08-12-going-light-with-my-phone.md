@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2022-08-12
 title: "Going Light with my iPhone"
 ---

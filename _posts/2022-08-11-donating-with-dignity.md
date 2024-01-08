@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2022-08-11
 title: Donating with Dignity
 ---

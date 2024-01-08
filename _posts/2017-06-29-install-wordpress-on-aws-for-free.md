@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2017-06-29
 title: Install Wordpress on AWS (for free)
 categories: [development]

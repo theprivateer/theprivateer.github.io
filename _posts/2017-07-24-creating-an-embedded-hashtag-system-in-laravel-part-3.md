@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2017-07-24
 title: Creating an embedded hashtag system in Laravel - Part 3
 categories: [development]

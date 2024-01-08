@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2022-08-17
 title: Run multiple versions of PHP on macOS
 categories: [development]

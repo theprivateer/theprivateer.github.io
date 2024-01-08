@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2022-07-01
 title: Calling Time on Subworthy
 ---

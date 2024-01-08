@@ -1,11 +1,10 @@
 ---
 layout: post
-section: content
 date: 2022-01-09
 title: Introducing Subworthy
 ---
 
-_**Since writing this I have chosen to [shut down Subworthy](/calling-time-on-subworthy).**_
+_**Since writing this I have chosen to [shut down Subworthy](/blog/calling-time-on-subworthy).**_
 
 In 2021 I made an effort to embrace the ideas laid out in Cal Newport's book [Digital Minimalism](https://www.calnewport.com/books/digital-minimalism/) to reduce the amount of time I waste getting distracted online. In the first instance I cut down on my social media use, completely removing Facebook and Twitter from my life (unfortunately I'm still a bit of a sucker for Instagram).
 

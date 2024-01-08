@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2017-06-28
 title: Cross-posting to Twitter using Laravel Notifications
 categories: [development]

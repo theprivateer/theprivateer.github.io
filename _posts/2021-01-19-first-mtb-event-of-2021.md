@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2021-01-19
 title: My first ever mountain bike event
 ---

@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2017-07-26
 title: Building a Dictionary of Domain Names
 categories: [development]

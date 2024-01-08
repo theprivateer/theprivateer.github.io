@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2022-09-26
 title: "Apparently I'm not a real person"
 ---

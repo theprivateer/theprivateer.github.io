@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2022-12-13
 title: "Documenting The Things I Use"
 ---

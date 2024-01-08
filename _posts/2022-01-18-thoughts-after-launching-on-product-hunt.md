@@ -1,11 +1,10 @@
 ---
 layout: post
-section: content
 date: 2022-01-18
 title: "Subworthy: Thoughts after launching on Product Hunt"
 ---
 
-_**Since writing this I have chosen to [shut down Subworthy](/calling-time-on-subworthy).**_
+_**Since writing this I have chosen to [shut down Subworthy](/blog/calling-time-on-subworthy).**_
 
 Yesterday I made a spur-of-the-moment to [launch Subworthy on Product Hunt](https://www.producthunt.com/posts/subworthy).  I finished up the day placed a respectable 15th out of a total of 37 products launched, and whilst I _only_ received 27 upvotes (the #1 un-promoted product received 760) every single one of them was greatly appreciated.
 

@@ -1,11 +1,10 @@
 ---
 layout: post
-section: content
 date: 2022-02-02
 title: "Subworthy: Listening to podcast episodes"
 ---
 
-_**Since writing this I have chosen to [shut down Subworthy](/calling-time-on-subworthy/).**_
+_**Since writing this I have chosen to [shut down Subworthy](/blog/calling-time-on-subworthy/).**_
 
 RSS is the defacto standard for distributing information about podcast episodes, so naturally you can use [Subworthy](https://subworthy.com) to subscribe to podcast feeds.
 

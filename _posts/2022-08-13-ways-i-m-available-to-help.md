@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2022-08-13
 title: "Ways I'm Available to Help"
 ---

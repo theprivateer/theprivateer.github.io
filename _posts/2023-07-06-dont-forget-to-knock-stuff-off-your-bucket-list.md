@@ -1,11 +1,7 @@
 ---
 layout: post
-section: content
 title: Don't forget to knock stuff off your bucket list
 date: 2023-07-06
-_description: This is your first blog post.
-_cover_image: /assets/img/post-cover-image-2.png
-_featured: true
 ---
 
 One of my bucket list items is to compete in (and finish) the [Crocodile Trophy](https://www.croctrophy.com/) - a staged mountain bike race in tropical North Queensland.

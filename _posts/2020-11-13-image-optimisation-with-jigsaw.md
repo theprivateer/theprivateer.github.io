@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2020-11-13
 title: Image Optimisation with Jigsaw
 categories: [development]

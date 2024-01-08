@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2022-08-25
 title: "In Memoriam: Rab Wardell"
 ---

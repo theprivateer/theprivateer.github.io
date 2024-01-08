@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2022-09-08
 title: The missing feature in Apple Watch
 ---

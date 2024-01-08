@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2017-06-30
 title: Confessions of a serial-creator
 ---

@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2017-07-08
 title: Dropbox as a blogging platform
 ---

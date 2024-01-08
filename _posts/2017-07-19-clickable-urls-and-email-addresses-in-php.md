@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2017-07-19
 title: "New Package: Clickable URLs and Email Addresses in PHP"
 categories: [development]

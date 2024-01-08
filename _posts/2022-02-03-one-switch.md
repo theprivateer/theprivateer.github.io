@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2022-02-03
 title: "On the Tools: One Switch"
 ---

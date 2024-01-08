@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2017-07-17
 title: Creating a Microblog publishing app with Workflow
 categories: [development]

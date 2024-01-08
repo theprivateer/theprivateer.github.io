@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2018-03-14
 title: Introducing Household
 ---

@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2021-09-06
 title: My Visual Studio Code Setup
 categories: [development]

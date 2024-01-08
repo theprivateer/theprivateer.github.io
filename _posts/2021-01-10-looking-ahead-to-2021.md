@@ -1,6 +1,5 @@
 ---
 layout: post
-section: content
 date: 2021-01-10
 title: Looking ahead to 2021
 ---
