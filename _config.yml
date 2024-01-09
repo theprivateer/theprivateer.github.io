@@ -36,6 +36,7 @@ plugins:
 include:
   - _pages
 permalink: /blog/:title
+timezone: Australia/Brisbane
 
 feed:
   posts_limit: 200
