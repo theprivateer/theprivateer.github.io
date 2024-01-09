@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stuff I Use
-date: 2024-01-02
+date: 2024-01-10
 ---
 
 # Work
@@ -31,9 +31,9 @@ date: 2024-01-02
 
 - Notion
 - Slack
-- Docker Desktop
+- Docker
 - [Lens](https://k8slens.dev)
-- Zoom
+- Google Meet
 
 ### Life
 
@@ -91,7 +91,6 @@ date: 2024-01-02
 - Apple TV+
 - Netflix
 - Paramount+ (mainly for [A-Leagues](https://aleagues.com.au) coverage)
-- [Netlify](https://netlify.com)
 - [omg.lol](https://omg.lol)
 
 ---
