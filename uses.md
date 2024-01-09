@@ -25,7 +25,6 @@ date: 2024-01-10
 - [Tinkerwell](https://tinkerwell.app)
 - [Laravel Herd](https://herd.laravel.com)
 - Terminal.app
-- [Bruno](https://www.usebruno.com)
 
 ### Work
 
@@ -34,6 +33,7 @@ date: 2024-01-10
 - Docker
 - [Lens](https://k8slens.dev)
 - Google Meet
+- [RapidAPI (previously Paw)](https://paw.cloud)
 
 ### Life
 
