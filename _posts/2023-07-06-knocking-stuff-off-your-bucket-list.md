@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't forget to knock stuff off your bucket list
+title: Knocking stuff off your bucket list
 date: 2023-07-06
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Don't Limit Your RSS feed"
+title: "On Limiting Your RSS feed"
 date: 2024-01-02
 ---
 If you have a blog with an RSS feed don't limit it to only the few most recent posts. And while you're at it, include the full post not just a teaser.
