@@ -3,6 +3,7 @@ layout: post
 date: 2021-01-17
 title: Adding Reading Time to a Jigsaw Blog
 categories: [development]
+render_with_liquid: false
 ---
 
 I recently added a simple 'estimated reading time' indicator to the posts on my blog - a simple enough task in PHP, and just as easy with static websites built with [Jigsaw](https://jigsaw.tighten.co) (like this one).

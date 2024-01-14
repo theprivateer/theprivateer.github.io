@@ -3,6 +3,7 @@ layout: post
 date: 2017-07-21
 title: Creating an embedded hashtag system in Laravel - Part 2
 categories: [development]
+render_with_liquid: false
 ---
 
 **Part 1 of this tutorial can be found at [Creating an embedded hashtag system in Laravel - Part 1](/blog/creating-an-embedded-hashtag-system-in-laravel-part-1).**

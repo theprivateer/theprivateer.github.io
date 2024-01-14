@@ -3,6 +3,7 @@ layout: post
 date: 2020-11-13
 title: Image Optimisation with Jigsaw
 categories: [development]
+render_with_liquid: false
 ---
 
 **EDIT: Since writing this post I have decided to remove the featured images from my website templates (just a preference thing), but the following is still valid.**

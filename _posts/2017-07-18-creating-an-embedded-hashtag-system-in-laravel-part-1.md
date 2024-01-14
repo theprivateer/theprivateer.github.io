@@ -3,6 +3,7 @@ layout: post
 date: 2017-07-18
 title: Creating an embedded hashtag system in Laravel - Part 1
 categories: [development]
+render_with_liquid: false
 ---
 
 One of the neat little features of my homegrown microblogging platform is that is has a nifty hashtag autocomplete system like you can find on Twitter and Instagram - you hit the `#` key and as you continue typing, suggestions of existing tags appear in a dropdown menu.

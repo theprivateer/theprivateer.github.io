@@ -3,6 +3,7 @@ layout: post
 date: 2022-09-01
 title: "Using Micropub, Netlify and Jigsaw to publish new blog posts"
 categories: [development]
+render_with_liquid: false
 ---
 
 I've been wanting to find ways to reduce the friction involved in writing and publishing posts to this blog.

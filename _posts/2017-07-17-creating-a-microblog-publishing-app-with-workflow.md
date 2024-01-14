@@ -3,6 +3,7 @@ layout: post
 date: 2017-07-17
 title: Creating a Microblog publishing app with Workflow
 categories: [development]
+render_with_liquid: false
 ---
 
 My homegrown micro-blogging platform is designed to work well on mobile, but I wanted a quick way to post in a more native way from my iPhone.  Enter [Workflow](https://workflow.is/), a powerful way to create custom actions on your iOS devices.

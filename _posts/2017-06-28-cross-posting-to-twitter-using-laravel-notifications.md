@@ -3,6 +3,7 @@ layout: post
 date: 2017-06-28
 title: Cross-posting to Twitter using Laravel Notifications
 categories: [development]
+render_with_liquid: false
 ---
 
 A couple of days ago I [wrote about the micro-blogging platform](/blog/micro-blogging) that I was developing for my own use, and how in time I would be setting it up to automatically cross-post to my Twitter feed.  Well it turns out it was a whole lot easier than I expected using Laravel's built in [Notifications](https://laravel.com/docs/5.4/notifications) feature (I haven't really talked about the underlying code for Shortform, but it is largely built on the awesome [Laravel PHP framework](https://laravel.com)).
