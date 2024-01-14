@@ -674,4 +674,4 @@ And there we have it - it's not going to win any design awards but it has achiev
 
 My next steps will be to use the Route 53 API to check the availability of domains.  Whether this is done on-demand or ahead of time _en masse_ I haven't quite decided yet, but I'll write about it here as I work my way through it.
 
-I need to get back to my day job now, but in the meantime you can view the source code for this [on Github](https://github.com/theprivateer/domain-dictionary) and browse the end result at [https://github.com/theprivateer/domain-dictionary](https://github.com/theprivateer/domain-dictionary).
+I need to get back to my day job now, but in the meantime you can view the source code for this [on Github](https://github.com/theprivateer/domain-dictionary).
