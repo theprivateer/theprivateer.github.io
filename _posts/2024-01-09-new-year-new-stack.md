@@ -9,6 +9,7 @@ I have two main criteria for choosing a blogging platform:
 
 1. Cheap (or free) to host
 2. Easy to update and maintain
+3. I own my data
 
 For the past couple of years this blog has been powered by [Jigsaw](https://jigsaw.tighten.com), a PHP static site generator, and hosted by [Netlify](https://www.netlify.com). This setup fits both of my criteria - I am able to use Netlify’s free tier to host the site, and adding a new post is as easy as adding a new Markdown file and pushing the change to Github.
 
