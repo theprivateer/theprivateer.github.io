@@ -3,7 +3,6 @@ layout: post
 date: 2020-11-12
 title: Getting back to writing
 ---
-
 Earlier this year whilst idly searching for domain at work I discovered that **philstephens.com** was available.  I promptly snatched it up, and recently decided it was time to resurrect the blog that I used to host at an old domain.
 
 I want something that was easy to maintain and cheap to host. The previous incarnation of this blog was managed by a custom content management system [powered by Dropbox](/blog/dropbox-as-a-blogging-platform).  All content was stored in Markdown flat files, with updates triggered using Dropbox webhooks.  It wasn't a static website as all content was stored in a simple relational database, but the ease of update was there.

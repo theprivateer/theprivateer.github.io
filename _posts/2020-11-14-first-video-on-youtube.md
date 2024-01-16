@@ -3,7 +3,6 @@ layout: post
 date: 2020-11-14
 title: First video on YouTube
 ---
-
 I broke out my old GoPro Hero 7 for my mountain bike ride a couple mornings ago, and whilst it wasn't exactly the fastest or most elegant run of some of the trails I caught some reasonable footage from the chest mount.
 
 After playing around with the built-in Story feature of the GoPro app to create a [small highlight reel](https://www.instagram.com/p/CHg6GlKFP7q/) I decided to do my first ever 'edit' of the complete run down Carnivore (also known as Carnage), one of the black diamond runs at [Bunyaville Conservation Park](https://www.trailforks.com/region/bunyaville-conservation-park/).

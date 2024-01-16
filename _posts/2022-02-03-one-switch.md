@@ -3,7 +3,6 @@ layout: post
 date: 2022-02-03
 title: "On the Tools: One Switch"
 ---
-
 I want to start sharing some tools - both software and hardware - that I use on a daily basis for my work and side-projects.  Some are critical to me getting stuff done, whereas others offer some great quality of life improvements.
 
 I want to kick things off with [One Switch](https://fireball.studio/oneswitch/), a simple Mac menubar app that I literally use every day.

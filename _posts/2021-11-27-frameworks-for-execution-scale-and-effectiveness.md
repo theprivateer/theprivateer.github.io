@@ -3,7 +3,6 @@ layout: post
 date: 2021-11-27
 title: Frameworks for Execution, Scale and Effectiveness
 ---
-
 This morning whilst doing my daily five minute browse of LinkedIn I came across a post highlighting a note from [DJ Patil](https://en.wikipedia.org/wiki/DJ_Patil), the first US Chief Data Scientist, summarising his approach to tackling problems.
 
 ![](/assets/img/dj-patil.jpg)

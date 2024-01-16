@@ -3,7 +3,6 @@ layout: post
 date: 2021-01-19
 title: My first ever mountain bike event
 ---
-
 Today I registered for my first mountain bike event of the year (and technically, ever).  I've only ever done mass-participation road events such as the [Noosa Classic](https://cyclingclassics.com.au/noosa/) and the [Great Brisbane Bike Ride](https://gbbr.com.au) so this will certainly be a first for me.
 
 The event I've gone for to pop my cherry, so to speak, is the first round of the [Kooralbyn MTB Endurance Series](https://www.ontheedgeevents.com.au/kooralbyn-mtb-endurance-series) in Queensland’s Scenic Rim.  This first round - on Sunday 7 March - is a four hour event (with six, 12 and an epic 24 hours later in the year), and riders will be tasked with completing the looped course as many times as they can within the allotted time.

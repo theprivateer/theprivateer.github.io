@@ -3,7 +3,6 @@ layout: post
 date: 2017-06-21
 title: Working remotely
 ---
-
 With the recent [backlash](https://www.inc.com/justin-bariso/no-apple-youre-wrong-work-is-not-more-important-than-family.html) against Apple for [promoting poor work/life balance](http://mashable.com/2017/06/09/planet-of-the-apps-apple-reality-tv/), and large tech companies [ending their remote working policy](https://qz.com/924167/ibm-remote-work-pioneer-is-calling-thousands-of-employees-back-to-the-office/) I figured it might be timely to review my recent career move and the motivations behind it.
 
 Up until 6 weeks ago I worked at a [fantastic mature startup](https://www.iseekplant.com.au) in Brisbane as their technical lead.  It was a fantastic experience during which I produced some of the work that I am most proud of in my whole career to date.  We went from a clunky outdated glorified proof-of-concept built by a fairly incompetent outsourced agency, to a completely rebuilt platform, infrastructure and team in less than 9 months.  It was exciting, we were breaking new ground and innovating in an industry that was ripe for disruption.  We had the backing of an Australian media powerhouse and monthly growth was on the up-and-up.  So why leave?

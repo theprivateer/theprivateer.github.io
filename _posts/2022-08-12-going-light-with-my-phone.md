@@ -3,7 +3,6 @@ layout: post
 date: 2022-08-12
 title: "Going Light with my iPhone"
 ---
-
 One of my stand-out reads of last year was Cal Newport's [Digital Minimalism](https://www.calnewport.com/books/digital-minimalism/) and I have been trying to adopt a healthier relationship with technology.
 
 I was considering taking things a step further and ordering a [Light Phone II](https://www.thelightphone.com) before realising that whilst not particularly distracting, I do still rely on my iPhone for some of its 'smart' features:

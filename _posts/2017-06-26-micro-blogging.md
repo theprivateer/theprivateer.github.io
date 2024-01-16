@@ -3,7 +3,6 @@ layout: post
 date: 2017-06-26
 title: Micro-blogging
 ---
-
 Blogging is hard - at least, it is for me.  I much prefer the micro-blog format - short, to-the-point posts with no title.  Like Twitter, but without the strict 140 character limit and all of the _noise_ of Twitter.  There's no real self-hosted solutions out there, other than particular themes for the likes of WordPress, so a few months ago I decided to hack something together.  The concept behind it wasn't perfectly formed, but I wanted a system where I could quickly post something in a sort of timeline format, and have some of the neat features of social networking such as hashtags and location. And it had to support Markdown (BIG fan of Markdown these days) as well as the single hero image format of Instagram (before Instagram added support for multiple images).
 
 And so, [Shortform](https://github.com/theprivateer/shortform) was born - I even bought a domain name for it!  I got a little carried away and tried to make it a little bit too much like a social network (multiple accounts, and an Oauth-powered mechanism to cross-post to other Shortform installations), which were probably a waste of time at that point, but the core features I mentioned above were a lot of fun to make so I'll probably write a little bit about them at some point.

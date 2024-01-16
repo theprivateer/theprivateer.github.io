@@ -3,7 +3,6 @@ layout: post
 date: 2022-09-26
 title: "Apparently I'm not a real person"
 ---
-
 Last week I received an email from a brand that I like and respect advertising a competition they are running. I very rarely enter these sorts of things, but in this instance I decided to go for it.
 
 I opened the link in the email and was directed to a third-party website to fill out my contact details to be added to a new mailing list (the entry requirement for the competition). It's worth noting that everything was above board - this was a legitimate site that provides competition infrastructure for brands.

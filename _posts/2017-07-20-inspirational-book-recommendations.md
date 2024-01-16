@@ -3,7 +3,6 @@ layout: post
 date: 2017-07-20
 title: "Inspirational: Book Recommendations"
 ---
-
 I used to be a fairly prolific reader of books, regularly devouring entire texts in a single sitting.  More recently though my reading has suffered as the forces of work, family and health (and Netflix) have all vied for my attention.
 
 Last week my wife and I took a long-overdue trip to Bali to recharge our batteries, and since we were _sans_-kids I was determined to get some solid reading under my belt (well, the waistband of my board-shorts).

@@ -3,7 +3,6 @@ layout: post
 date: 2017-06-20
 title: I'm sorry LinkedIn, I was wrong
 ---
-
 About a year ago I gave up on Facebook, it was becoming too much of a distraction and filled more an more with pointless shit.  If I didn't post anything for a week, I would get comments like "What's wrong with you? You haven't posted for _ages_" - which just seems wrong.  I still kept my Twitter and Instagram going, but more for their voyeuristic qualities, but I can honestly say that I have not missed being on Facebook, not one iota.
 
 I'd never been one for LinkedIn - yet another social network that bombarded you with notifications all day long, what was the point?  And everything centred around your professional life - seemed pretty boring to me.

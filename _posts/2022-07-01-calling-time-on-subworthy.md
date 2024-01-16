@@ -3,7 +3,6 @@ layout: post
 date: 2022-07-01
 title: Calling Time on Subworthy
 ---
-
 I originally started [Subworthy](/introducing-subworthy) to scratch a very personal itch - to control and focus my media consumption. After using it privately for over half a year I decided to open it up to anyone that that wanted to register for an account.
 
 Response was better than expected and I attracted a number of engaged core users - but the service was free to use.

@@ -5,7 +5,6 @@ title: "Using Micropub, Netlify and Jigsaw to publish new blog posts"
 categories: [development]
 render_with_liquid: false
 ---
-
 I've been wanting to find ways to reduce the friction involved in writing and publishing posts to this blog.
 
 This website is built using [Jigsaw](https://jigsaw.tighten.com), a PHP/Laravel-based static website builder. I host the site on [Netlify](https://www.netlify.com), which automatically builds and publishes the site whenever I push a commit to GitHub.

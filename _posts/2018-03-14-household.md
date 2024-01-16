@@ -3,7 +3,6 @@ layout: post
 date: 2018-03-14
 title: Introducing Household
 ---
-
 I've spent a lot of late nights and early mornings over the past month helping my wife launch her new side-project - **Household**.
 
 ![](/assets/img/household/logo.png)

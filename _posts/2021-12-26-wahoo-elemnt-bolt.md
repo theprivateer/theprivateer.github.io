@@ -3,7 +3,6 @@ layout: post
 date: 2021-12-26
 title: Wahoo ELEMNT BOLT
 ---
-
 After over nine years of reliable service, I have retired my original [Garmin Edge 800](https://www.garmin.com/en-AU/p/69043) cycle computer.  I originally purchased it to use on my Land's End to John o'Groats ride back in 2012, and despite an issue early on with the power button (which Garmin repaired in record time) it hasn't missed a beat.
 
 It was pretty much the best on the market when I purchased it, with a large colour touch screen (despite its relatively compact size), maps/navigation and decent battery life.  Despite still maintaining a good battery life, and working with a range of modern sensors that support [ANT+](https://www.thisisant.com/consumer/ant-101/what-is-ant/), there are a number of niggles that finally pushed my to upgrade:

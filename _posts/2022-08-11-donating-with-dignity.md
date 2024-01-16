@@ -3,7 +3,6 @@ layout: post
 date: 2022-08-11
 title: Donating with Dignity
 ---
-
 I was recently browsing the [Patagonia](https://www.patagonia.com.au) website and started to read about the company's sustainability and attitude toward repairing and recycling clothing.
 
 As somebody that has previously downsized their wardrobe and freely donated anything and everything to local clothing banks it struck a chord - I was getting it all wrong.

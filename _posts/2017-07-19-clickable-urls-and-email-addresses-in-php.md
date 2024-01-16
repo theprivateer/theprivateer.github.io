@@ -5,7 +5,6 @@ title: "New Package: Clickable URLs and Email Addresses in PHP"
 categories: [development]
 render_with_liquid: false
 ---
-
 Last night I refactored a few functions I had put together into a package to convert all URLs, email addresses and FTP addresses in a block of text into clickable HTML anchors.  I use it on my [microblog](https://shortform.philstephens.io) when posting - since my posts are [automatically reposted to Twitter](/blog/cross-posting-to-twitter-using-laravel-notifications), which marks up links accordingly, I want to avoid using Markdown for clickable URLs etc.
 
 The package can be installed using Composer:

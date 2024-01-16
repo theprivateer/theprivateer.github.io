@@ -3,7 +3,6 @@ layout: post
 date: 2022-08-13
 title: "Ways I'm Available to Help"
 ---
-
 Over the past 15+ years I've worked with some great (and some not-so-great) people to whom I owe a lot. I've worked at award-winning marketing agencies, tech start-ups, mature scale-ups and total f**k-ups. I've learnt a lot about what works (and even more about what doesn't), and now it's my turn to give something back.
 
 ## Ways I’m available to help anyone

@@ -3,7 +3,6 @@ layout: post
 date: 2021-01-10
 title: Looking ahead to 2021
 ---
-
 It's that time of year when everyone takes stock of the year just past and looks ahead at what they want to achieve over the coming 12 months.
 
 ## 2020

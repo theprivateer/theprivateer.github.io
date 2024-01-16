@@ -3,7 +3,6 @@ layout: post
 title: The Only WWDC Announcement I Care About
 date: 2023-06-08
 ---
-
 Of all the announcements that came out of Apple's [WWDC keynote](https://podcasts.apple.com/au/podcast/apple-events-video/id275834665?i=1000615768968) earlier this week, the thing that I was genuinely excited about dropped in at the 1:10:25 mark. Not futuristic AR headsets or blisteringly fast pro workstations, but the news that watchOS 10 will support connecting cycling sensors to your Apple Watch and having that data processed natively in the Workout app.
 
 Last year after the Apple Watch Ultra (and watchOS 9) was first announced [I wrote](/blog/the-missing-feature-in-apple-watch/) that it was missing a couple of admittedly niche features that I would love to see:

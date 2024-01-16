@@ -3,7 +3,6 @@ layout: post
 date: 2022-09-08
 title: The missing feature in Apple Watch
 ---
-
 Apple recently announced the new Apple Watch Series 8 and the gorgeous Apple Watch Ultra, but there were a couple of _"shut up and take my money"_ features that I would have loved to have seen.
 
 Whenever I go cycling I have a number devices with me to help record my efforts:

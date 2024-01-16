@@ -5,7 +5,6 @@ title: "New Package: FileMaker PHP and FMREST library"
 categories: [development]
 render_with_liquid: false
 ---
-
 In my day job at [Databee](https://databee.com.au) my PHP development projects tend to leverage [Claris FileMaker](https://www.claris.com/filemaker/) as the database engine.  Without going into too much detail, FileMaker varies quite differently from most database engines, and as such the method to connect to it is somewhat unique.
 
 Up until a couple of years ago, the only way to connect was by using an XML interface with a convenient PHP wrapper (provided by FileMaker).  Whilst perfectly serviceable this method came with some caveats and idiosyncrasies that meant making connections performant - especially for large datasets - a little more complicated.

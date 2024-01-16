@@ -5,9 +5,6 @@ title: Image Optimisation with Jigsaw
 categories: [development]
 render_with_liquid: false
 ---
-
-**EDIT: Since writing this post I have decided to remove the featured images from my website templates (just a preference thing), but the following is still valid.**
-
 I use [Jigsaw](https://jigsaw.tighten.co) to build this blog, and each post leads with a large featured image.  In many cases these images are just thematic and come from [Unsplash](https://unsplash.com), but my writing and publishing workflow doesn't include any image manipulation software to optimise the dimensions for the web.
 
 Using Jigsaw's [event listeners](https://jigsaw.tighten.co/docs/event-listeners/) I decided to build a super simple post-build script to reduce the overall size of any images that were unnecessarily large for my site template.

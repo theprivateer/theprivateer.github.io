@@ -5,7 +5,6 @@ title: Publishing hidden files with Jigsaw
 categories: [development]
 render_with_liquid: false
 ---
-
 I recently decided to update the URL structure for my blog posts but didn't want to break any of the internal links or search engine indexing that was in place. Luckily this is easy enough with Netlify by utilising static routing [redirects and rewrites](https://docs.netlify.com/routing/redirects/).
 
 I had quite a few redirects so felt the [_redirects file](https://docs.netlify.com/routing/redirects/#syntax-for-the-redirects-file) was the most elegant option with the least complex syntax.

@@ -3,7 +3,6 @@ layout: post
 title: Thank-you Twitter for locking me out
 date: 2023-07-03
 ---
-
 On the weekend Twitter introduced its latest 'feature' - you cannot read public tweets [unless you have an account](https://techcrunch.com/2023/06/30/twitter-now-requires-an-account-to-view-tweets/). Whilst the internet collectively rolled its eyes, I let out a sigh of relief.
 
 I deleted my Twitter account some months ago. Not in protest over the Musk-era, but because I was sick of the attention drain.

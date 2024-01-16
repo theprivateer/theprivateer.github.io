@@ -5,7 +5,6 @@ title: Building a Dictionary of Domain Names - Part 2
 categories: [development]
 render_with_liquid: false
 ---
-
 [Previously I discussed a little hobby project](/blog/building-a-dictionary-of-domain-names) that I was working on to build out a dictionary of words that could be made into complete domain names (i.e. the whole domain, including the TLD extension, forms the word).
 
 I went through the process of importing a public domain English dictionary, scraping a list of available TLD extensions from my registrar of choice (Amazon Web Services) and then building out a list of possible domains.

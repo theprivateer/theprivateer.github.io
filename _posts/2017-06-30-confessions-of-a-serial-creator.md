@@ -3,7 +3,6 @@ layout: post
 date: 2017-06-30
 title: Confessions of a serial-creator
 ---
-
 I'm not afraid to admit that I'm not particularly entrepreneurial.  I _do_ however have great commercial acumen and can see potential opportunities everywhere - I'm constantly coming up with ideas for (technical) solutions to problems (often my own) and gaps in the market.  I'm fortunate to have a lengthy background in programming and web development, so I am always tinkering with new projects in my somewhat limited spare time - even if it's just to practice my craft and learn new techniques and technologies.  I am a serial-creator.
 
 For the past couple of years I have been keeping a Trello board of all the ideas - large and small - that I come up with, and regularly revisit it to flesh out the details.  Some of my ideas only exist in this format whereas others have by and large been built out fully and are sitting gathering dust in my `Code` directory.

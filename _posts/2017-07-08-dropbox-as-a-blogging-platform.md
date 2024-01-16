@@ -3,7 +3,6 @@ layout: post
 date: 2017-07-08
 title: Dropbox as a blogging platform
 ---
-
 This blog is powered by a lightweight bespoke platform built on Laravel.  Whilst there are many great blogging platforms out there, I decided to build my own to meet my own specific requirements, and to scratch the itch of building something that I would use everyday.
 
 All of the posts are written using Markdown and then rendered out using the fantastic [Commonmark](http://commonmark.thephpleague.com/) library from the [League of Extraordinary Packages](https://thephpleague.com).  There's nothing particularly complex about what I'm doing up until this point - however I really wanted to improve my writing experience.

@@ -3,7 +3,6 @@ layout: post
 date: 2022-08-29
 title: "Coding Intentionally"
 ---
-
 I recently rebuilt this website.
 
 Previously the design didn't look all that different but in an effort to get something up and running quickly I had leaned on a [frontend CSS framework](https://getbootstrap.com) to shortcut the styling.

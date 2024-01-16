@@ -3,7 +3,6 @@ layout: post
 date: 2017-06-27
 title: Introducing CloudStage
 ---
-
 I am a constant tinkerer, always messing about with ideas for side-projects and seeing what sticks.  One of the barriers - albeit very small - to trying code out in the wild is the ability to get a quick domain name for testing.  PaaS providers such as [Heroku](https://www.heroku.com/) and [Pagoda Box](https://pagodabox.io/) will give you a simple and memorable default domain when you spin up a new service, but there are plenty other players in the market.
 
 I personally use Amazon Web Services and Digital Ocean to quickly try out ideas - spinning up and down servers all over the show.  Whilst AWS does give all of their services a unique URL, they are dynamically generated and can be pretty unwieldy - also, there's no real allowance for running multiple sites off of one server.

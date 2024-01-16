@@ -3,7 +3,6 @@ layout: post
 date: 2022-08-25
 title: "In Memoriam: Rab Wardell"
 ---
-
 Today I am saddened by the news of the passing of Scottish mountain biker [Rab Wardell](https://www.rabwardell.com), who [died in his sleep](https://www.theguardian.com/sport/2022/aug/24/mountain-bike-rider-rab-wardell-dies-aged-37) two days after winning the Scottish MTB XC Championships.
 
 Rab had been racing mountain bikes since he was a teenager, but only went professional last year. His drive and commitment to cycling was second to none. Whether it was bike-packing to - and then competing in - a [gravel race in Belgium](https://www.rabwardell.com/post/2018/11/05/bikepack-to-belgium-photo-essay), or setting a [record-breaking time](https://www.youtube.com/watch?v=9ZVAbtKgPYk) to ride the West Highland Way, his antics always inspired me to up my game and just get out and ride my bike.

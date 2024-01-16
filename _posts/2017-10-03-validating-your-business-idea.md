@@ -3,7 +3,6 @@ layout: post
 date: 2017-10-03
 title: Validating your business idea
 ---
-
 If you've got a business or product idea it's easy to get carried away and invest time and often money without really considering the viability of the idea - until it's too late.
 
 I've had the privilege of working with a number of start-ups over the years, and the same key questions and discussion points crop up time and again. Whilst this is not a definitive or structured list, I'd like to share some of these points:

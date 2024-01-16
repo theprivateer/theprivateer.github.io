@@ -3,7 +3,6 @@ layout: post
 date: 2022-01-21
 title: "Subworthy: Privacy, and removing user's names from the database"
 ---
-
 _**Since writing this I have chosen to [shut down Subworthy](/blog/calling-time-on-subworthy/).**_
 
 Privacy is a big thing for [Subworthy](/introducing-subworthy/).  Whilst there _is_ a form of user-tracking implemented into the platform, it is the absolute bare minimum required to be useful.

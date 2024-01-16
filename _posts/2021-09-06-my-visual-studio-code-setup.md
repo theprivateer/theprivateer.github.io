@@ -4,7 +4,6 @@ date: 2021-09-06
 title: My Visual Studio Code Setup
 categories: [development]
 ---
-
 I mainly write code in PHP, and for my day job I predominantly lean on [PhpStorm](https://www.jetbrains.com/phpstorm/). However more recently I have been making concerted effort to try and replicate my workflow in [Visual Studio Code](https://code.visualstudio.com) for personal projects.
 
 With a sprinkling of extensions and configurations I have more or less been able to maintain the muscle-memory built up from years of PhpStorm use.

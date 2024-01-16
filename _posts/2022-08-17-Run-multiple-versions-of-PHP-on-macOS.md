@@ -5,7 +5,6 @@ title: Run multiple versions of PHP on macOS
 categories: [development]
 render_with_liquid: false
 ---
-
 This weekend I wanted to take a look at a Laravel project I worked on back in 2016 (and haven't touched since). I checked-out the code to my MacBook Pro and ran `composer install` only to find that the project was not compatible with the version of PHP I had installed (v8.1.5).  Worse still, looking back at the dependencies, this version of Laravel required PHP 5.6.
 
 A quick check of [Homebrew](https://brew.sh) showed that v5.6 was no longer officially supported (via `brew install php@[version]`) so I had to find another source.

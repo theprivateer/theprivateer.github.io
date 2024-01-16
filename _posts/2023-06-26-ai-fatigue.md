@@ -3,7 +3,6 @@ layout: post
 title: AI Fatigue
 date: 2023-06-26
 ---
-
 It seems that every other tech story or product launch is about AI, and I'm getting kind of bored of it.
 
 Where the previous 'lazy' product pitch was **Uber for X** or **AirBnB for X** it is now **X, but with added AI**. AI is being treated as a magic pill that will add value by simply being part of the solution.

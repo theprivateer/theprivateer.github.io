@@ -3,7 +3,6 @@ layout: post
 date: 2022-12-13
 title: "Documenting The Things I Use"
 ---
-
 I've been a long time fan of [Paul Stamatiou](https://paulstamatiou.com), and I particularly enjoy his in-depth [gear](https://paulstamatiou.com/stuff-i-use/) write-ups.
 
 I have a [/uses](https://uses.tech) page, but like most people who have jumped on this trend, it is little more than a list of equipment and software that I use for my work.  This often masks a lot of the subtle choices I have made along the way to arrive at my current setup (and the decisions that will inevitably lead to changing it over time).

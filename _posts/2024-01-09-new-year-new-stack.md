@@ -3,7 +3,6 @@ layout: post
 date: 2024-01-09
 title: New Year, New Stack
 ---
-
 It’s time to have another crack at maintaining this blog - which means it’s as good a time as any to give it a bit of a makeover.
 
 I have two main criteria for choosing a blogging platform:
