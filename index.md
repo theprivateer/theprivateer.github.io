@@ -4,6 +4,3 @@
 
 layout: home
 ---
-I'm a cyclist and software developer.
-
-I live in Brisbane, Australia with my wife and two kids and I spend way too much time looking at bikes on the internet.
