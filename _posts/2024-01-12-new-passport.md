@@ -7,4 +7,4 @@ title: "New passport ≠ Better passport"
 
 Typically I would travel on my Australian passport since gaining citizenship a few years ago. However today I received my renewed British passport, and it is the first time I have held a British passport that isn’t the burgundy of an EU passport.
 
-The effects of Brexit have finally reached my door.
+The effects of [Brexit](https://en.wikipedia.org/wiki/Brexit) have finally reached my door.
