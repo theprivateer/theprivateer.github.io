@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Now
+permalink: /now/
 date: 2024-02-12
 ---
 
