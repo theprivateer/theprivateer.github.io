@@ -70,7 +70,7 @@ date: 2024-01-10
 
 - iPhone 13 Mini, paired with leather case and MagSafe wallet
 - iPad Mini (5th generation)
-- Apple Watch Ultra, with Nomad sports strap
+- Apple Watch Ultra (1st generation) with Nomad sports strap
 - AirPods (3rd generation)
 - Kobo Libra 2 eReader
 
@@ -119,4 +119,4 @@ date: 2024-01-10
 - Wahoo ELEMNT BOLT cycle computer
 - Wahoo TICKR FIT optical heart rate monitor
 - Wahoo KICKR SNAP wheel-on smart trainer
-- a variety of Wahoo cadence sensors
+- Wahoo cadence sensors on the road bike and 29er

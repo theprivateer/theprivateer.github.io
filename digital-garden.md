@@ -10,6 +10,7 @@ include_in_nav: true
 
 ### Miscellaneous
 
+- [Now](/now)
 - [Stuff I Use](/uses)
 - [Bookshelf](/books)
 - [Blogs](/blogs)
