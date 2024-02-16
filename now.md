@@ -9,7 +9,7 @@ _Updated 12 February 2024_
 
 # Personal
 
-Planning our three-week trip to the UK at the end of March. Flights and accommodation are all booked - just figuring out how to fit in all the various touristy stuff the kids want to do (since they are now old enough to remember it), and what car to hire and when (anyone have experience hiring a Tesla in the UK?).
+Planning our three-week trip to the UK at the end of March. Flights and accommodation are all booked - just figuring out how to fit in all the various touristy stuff the kids want to do (since they are now old enough to remember it), and what car to hire and when we start to move around outside of London (anyone have experience hiring a Tesla in the UK?).
 
 # Work
 
