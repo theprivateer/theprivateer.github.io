@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stuff I Use
-date: 2024-01-10
+date: 2024-02-17
 ---
 
 # Work
@@ -33,7 +33,7 @@ date: 2024-01-10
 - Docker
 - [Lens](https://k8slens.dev)
 - Google Meet
-- [RapidAPI (previously Paw)](https://paw.cloud)
+- [RapidAPI (previously known as Paw)](https://paw.cloud)
 
 ### Life
 
@@ -68,7 +68,7 @@ date: 2024-01-10
 
 ## Devices
 
-- iPhone 13 Mini, paired with leather case and MagSafe wallet
+- iPhone 15 Pro, paired with Apple Finewoven case and MagSafe wallet
 - iPad Mini (5th generation)
 - Apple Watch Ultra (1st generation) with Nomad sports strap
 - AirPods (3rd generation)
@@ -91,7 +91,6 @@ date: 2024-01-10
 - Apple TV+
 - Netflix
 - Paramount+ (mainly for [A-Leagues](https://aleagues.com.au) coverage)
-- [omg.lol](https://omg.lol)
 
 ---
 
@@ -104,6 +103,7 @@ date: 2024-01-10
 - Fizik Tempo Argo R5 saddle
 - Shimano Ultegra SPD-SL pedals
 - POC Ventral Air MIPS helmet
+- KOO Demos sunglasses with various lenses for different riding / weather conditions, and prescription optical insert
 
 ### Trek X-Caliber 9 hardtail 29er MTB
 

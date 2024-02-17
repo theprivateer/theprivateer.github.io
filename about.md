@@ -12,3 +12,5 @@ I live in Brisbane, Australia with my wife and two kids and I spend way too much
 The best way to reach me is by email at [phils@hey.com](mailto:phils@hey.com).
 
 I check email once a day in the evening, and try to respond within two days. If I'm swamped and don't manage to, feel free to ping me after that!
+
+This is what I'm up to [now...](/now)
