@@ -88,6 +88,8 @@ date: 2024-02-24
 
 ## Services
 
+Whilst I do have accounts with other services that I may use occassionally, these are the services that I choose to pay for.
+
 - iCloud
 - Apple TV+
 - Netflix
