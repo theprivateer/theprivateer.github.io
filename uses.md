@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stuff I Use
-date: 2024-02-17
+date: 2024-02-24
 ---
 
 # Work
@@ -45,6 +45,7 @@ date: 2024-02-17
 - [iA Writer](https://ia.net/writer)
 - Apple Notes
 - [Reeder](https://reederapp.com)
+- [Portal](https://portal.app)
 
 ### Miscellaneous
 
