@@ -4,9 +4,9 @@ title: Stuff I Use
 date: 2024-02-24
 ---
 
-# Work
+## Work
 
-## Hardware
+### Hardware
 
 - 13" M1 MacBook Pro (a 16GB Space Grey model provided by my employer, and an 8GB Silver model for personal use)
 - Samsung CH89 34" curved monitor (mounted on a monitor arm to save desk space)
@@ -15,9 +15,9 @@ date: 2024-02-24
 - Logitech Streamcam
 - Bose QuietComfort 45 headphones
 
-## Software
+### Software
 
-### Development
+#### Development
 
 - [Visual Studio Code](/vs-code)
 - [TablePlus](https://tableplus.com)
@@ -26,7 +26,7 @@ date: 2024-02-24
 - [Laravel Herd](https://herd.laravel.com)
 - Terminal.app
 
-### Work
+#### Work
 
 - Notion
 - Slack
@@ -35,7 +35,7 @@ date: 2024-02-24
 - Google Meet
 - [RapidAPI (previously known as Paw)](https://paw.cloud)
 
-### Life
+#### Life
 
 - Apple Music
 - [HEY](https://hey.com)
@@ -47,12 +47,12 @@ date: 2024-02-24
 - [Reeder](https://reederapp.com)
 - [Portal](https://portal.app)
 
-### Miscellaneous
+#### Miscellaneous
 
 - [One Switch](https://fireball.studio/oneswitch/)
 - [Hand Mirror](https://handmirror.app)
 
-## Workspace
+### Workspace
 
 - Ikea BEKANT standing desk
 - Ergonomic mesh desk chair (random brand from Costco)
@@ -63,11 +63,10 @@ date: 2024-02-24
 - Ikea HAVBERG leather armchair and matching footstool
 - a cheap minimal side-table
 
----
 
-# Personal
+## Personal
 
-## Devices
+### Devices
 
 - iPhone 15 Pro, paired with Apple Finewoven case and MagSafe wallet
 - iPad Mini (5th generation)
@@ -75,18 +74,18 @@ date: 2024-02-24
 - AirPods (3rd generation)
 - Kobo Libra 2 eReader
 
-## Networking
+### Networking
 
 - Asus ZenWiFi XD6 Mesh WiFi
 
-## Health / Wellbeing
+### Health / Wellbeing
 
 - Theragun Pro
 - Withings ScanWatch
 - Withings Body Cardio smart scale
 - Withings BPM Connect blood pressure cuff
 
-## Services
+### Services
 
 Whilst I do have accounts with other services that I may use occassionally, these are the services that I choose to pay for.
 
@@ -95,29 +94,28 @@ Whilst I do have accounts with other services that I may use occassionally, thes
 - Netflix
 - Paramount+ (mainly for [A-Leagues](https://aleagues.com.au) coverage)
 
----
 
-# Cycling
+## Cycling
 
-## Bikes
+### Bikes
 
-### Avanti Cadent ER2 3.0 carbon road bike
+#### Avanti Cadent ER2 3.0 carbon road bike
 
 - Fizik Tempo Argo R5 saddle
 - Shimano Ultegra SPD-SL pedals
 - POC Ventral Air MIPS helmet
 - KOO Demos sunglasses with various lenses for different riding / weather conditions, and prescription optical insert
 
-### Trek X-Caliber 9 hardtail 29er MTB
+#### Trek X-Caliber 9 hardtail 29er MTB
 
 - Shimano Deore M8120 pedals
 - Bontrager Rally MIPS helmet
 
-### Giant Trance 2 full suspension MTB
+#### Giant Trance 2 full suspension MTB
 
 - Shimano GR500 platform pedals
 
-## Tech
+### Tech
 
 - Wahoo ELEMNT BOLT cycle computer
 - Wahoo TICKR FIT optical heart rate monitor
