@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stuff I Use
-date: 2024-02-24
+date: 2024-02-26
 ---
 
 ## Work
@@ -89,8 +89,7 @@ date: 2024-02-24
 
 Whilst I do have accounts with other services that I may use occassionally, these are the services that I choose to pay for.
 
-- iCloud
-- Apple TV+
+- Apple One (iCloud, Music, Apple TV+)
 - Netflix
 - Paramount+ (mainly for [A-Leagues](https://aleagues.com.au) coverage)
 
