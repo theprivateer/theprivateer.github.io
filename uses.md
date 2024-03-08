@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stuff I Use
-date: 2024-02-26
+date: 2024-03-07
 ---
 
 ## Work
@@ -21,7 +21,7 @@ date: 2024-02-26
 
 - [Visual Studio Code](/vs-code)
 - [TablePlus](https://tableplus.com)
-- Safari
+- Firefox
 - [Tinkerwell](https://tinkerwell.app)
 - [Laravel Herd](https://herd.laravel.com)
 - Terminal.app
@@ -37,13 +37,10 @@ date: 2024-02-26
 
 #### Life
 
-- Apple Music
-- [HEY](https://hey.com)
-- [Things](https://culturedcode.com/things/)
-- [Drafts](https://getdrafts.com)
+- Spotify (currently trying out as a replacement for Apple Music)
+- [HEY](https://hey.com) (currently just for email)
 - 1Password
 - [iA Writer](https://ia.net/writer)
-- Apple Notes
 - [Reeder](https://reederapp.com)
 - [Portal](https://portal.app)
 
@@ -69,7 +66,8 @@ date: 2024-02-26
 ### Devices
 
 - iPhone 15 Pro, paired with Apple Finewoven case and MagSafe wallet
-- iPad Mini (5th generation)
+- iPad Mini (5th generation) and 1st generation Apple Pencil
+- Withings ScanWatch
 - Apple Watch Ultra (1st generation) with Nomad sports strap
 - AirPods (3rd generation)
 - Kobo Libra 2 eReader
@@ -81,7 +79,6 @@ date: 2024-02-26
 ### Health / Wellbeing
 
 - Theragun Pro
-- Withings ScanWatch
 - Withings Body Cardio smart scale
 - Withings BPM Connect blood pressure cuff
 
@@ -89,7 +86,7 @@ date: 2024-02-26
 
 Whilst I do have accounts with other services that I may use occassionally, these are the services that I choose to pay for.
 
-- Apple One (iCloud, Music, Apple TV+)
+- Apple One (iCloud, Music, Apple TV+) - this is a devisive one as I am trying to phase out reliance on Apple services, but the family is still deeply entrenched.
 - Netflix
 - Paramount+ (mainly for [A-Leagues](https://aleagues.com.au) coverage)
 
