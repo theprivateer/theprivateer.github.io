@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stuff I Use
-date: 2024-03-07
+date: 2024-03-10
 ---
 
 ## Work
@@ -69,7 +69,7 @@ date: 2024-03-07
 - iPad Mini (5th generation) and 1st generation Apple Pencil
 - Withings ScanWatch
 - Apple Watch Ultra (1st generation) with Nomad sports strap
-- AirPods (3rd generation)
+- Bose QuietComfort UltraEarbuds
 - Kobo Libra 2 eReader
 
 ### Networking
