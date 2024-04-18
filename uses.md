@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stuff I Use
-date: 2024-03-10
+date: 2024-04-18
 ---
 
 ## Work
@@ -56,6 +56,7 @@ date: 2024-03-10
 - Ikea LIDKULLEN stool
 - [Minimal Desk Setups](https://www.minimaldesksetups.com) felt desk pad
 - Dyson Pure Hot+Cold air purifier
+- Bose Portable Smart Speaker
 - Ikea BEKANT storage unit
 - Ikea HAVBERG leather armchair and matching footstool
 - a cheap minimal side-table
@@ -69,7 +70,7 @@ date: 2024-03-10
 - iPad Mini (5th generation) and 1st generation Apple Pencil
 - Withings ScanWatch
 - Apple Watch Ultra (1st generation) with Nomad sports strap
-- Bose QuietComfort UltraEarbuds
+- Bose QuietComfort Ultra Earbuds
 - Kobo Libra 2 eReader
 
 ### Networking
