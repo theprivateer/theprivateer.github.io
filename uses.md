@@ -19,7 +19,7 @@ date: 2024-04-18
 
 #### Development
 
-- [Visual Studio Code](/vs-code)
+- [Visual Studio Code](/vs-code) - but considering a move back to PhpStorm
 - [TablePlus](https://tableplus.com)
 - Firefox
 - [Tinkerwell](https://tinkerwell.app)
@@ -37,7 +37,7 @@ date: 2024-04-18
 
 #### Life
 
-- Spotify (currently trying out as a replacement for Apple Music)
+- Spotify
 - [HEY](https://hey.com) (currently just for email)
 - 1Password
 - [iA Writer](https://ia.net/writer)

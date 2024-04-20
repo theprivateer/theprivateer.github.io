@@ -6,8 +6,8 @@ date: 2023-09-01
 
 ## Currently Reading
 
+* [Do Agile](https://thedobook.co/products/do-agile-futureproof-your-mindset-stay-grounded) by Tim Drake
 * [Blueprint](https://www.kobo.com/au/en/ebook/blueprint-build-a-bulletproof-body-for-extreme-adventure-in-365-days) Ross Edgley
-* [The Atlas Six](https://www.kobo.com/au/en/ebook/the-atlas-six-the-atlas-book-1) Olivie Blake
 
 ## Books I've Read
 
@@ -15,6 +15,7 @@ date: 2023-09-01
 
 #### 2023
 
+* [The Atlas Six](https://www.kobo.com/au/en/ebook/the-atlas-six-the-atlas-book-1) Olivie Blake
 * [Abaddon's Gate](https://www.kobo.com/au/en/ebook/abaddon-s-gate-1) James S. A. Corey
 * [Caliban's War](https://www.kobo.com/au/en/ebook/caliban-s-war-1) James S. A. Corey
 * [The Peripheral](https://www.kobo.com/au/en/ebook/the-peripheral-2) William Gibson
@@ -43,6 +44,12 @@ date: 2023-09-01
 * [Foundation](https://www.kobo.com/au/en/ebook/foundation-the-foundation-trilogy-book-1-1) Isaac Asimov
 
 ### Non-Fiction
+
+#### 2024
+
+* [Do Pause](https://thedobook.co/products/do-pause-you-are-not-a-to-do-list) by Robert Poynton
+* [Do Walk](https://thedobook.co/products/do-walk) by Libby DeLana
+* [Do Interesting](https://thedobook.co/products/do-interesting-notice-collect-share) by Russell Davies
 
 #### 2023
 
