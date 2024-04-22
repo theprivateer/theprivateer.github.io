@@ -34,9 +34,9 @@ layout: default
     {%- endif -%}
   </div>
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
+  <div>
+    <a href="mailto:phils@hey.com?subject={{ page.title | escape }}">Reply via email</a>
+  </div>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
