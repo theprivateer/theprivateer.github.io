@@ -13,4 +13,4 @@ include_in_nav: true
 - [Now](/now)
 - [Stuff I Use](/uses)
 - [Bookshelf](/books)
-- [Blogs](/blogs)
+- [Blogroll](/blogroll)
