@@ -3,14 +3,6 @@ layout: page
 title: Bookshelf
 date: 2023-09-01
 ---
-
-## Currently Reading
-
-* [Do Agile](https://thedobook.co/products/do-agile-futureproof-your-mindset-stay-grounded) by Tim Drake
-* [Blueprint](https://www.kobo.com/au/en/ebook/blueprint-build-a-bulletproof-body-for-extreme-adventure-in-365-days) Ross Edgley
-
-## Books I've Read
-
 ### Fiction
 
 #### 2023
