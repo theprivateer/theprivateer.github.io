@@ -89,6 +89,12 @@ date: 2023-09-01
 
 ## Waiting to be Read
 
+* [Project Hail Mary](https://www.kobo.com/au/en/ebook/project-hail-mary) Andy Weir
+* [Do Design](https://thedobook.co/products/do-design-why-beauty-is-key-to-everything) Alan Moore
+* [Do Team](https://thedobook.co/products/do-team-how-to-get-the-best-from-everyone) Charlie Gladstone
+* [Do Photo](https://thedobook.co/products/do-photo-observe-compose-capture-stand-out) Andrew Paynter
+* [Do Improvise](https://thedobook.co/products/do-improvise-less-push-more-pause-better-results-a-new-approach-to-work-and-life) Robert Poynton
+* [Do Breathe](https://thedobook.co/products/do-breathe-calm-your-mind-find-focus-get-stuff-done) Michael Townsend Williams
 * [Getting Things Done](https://www.kobo.com/au/en/ebook/getting-things-done-4) David Allen
 * [The Wim Hoff Method](https://www.kobo.com/au/en/ebook/the-wim-hof-method) Wim Hoff
 * [The Lazarus Strategy](https://www.kobo.com/au/en/ebook/the-lazarus-strategy) Dr Norman Lazarus
@@ -102,3 +108,4 @@ date: 2023-09-01
 * [Everything by Derek Sivers](https://sive.rs/#mybooks)
 * [Agency](https://www.kobo.com/au/en/ebook/agency-11) William Gibson
 * [An Elegant Puzzle](https://www.kobo.com/au/en/ebook/an-elegant-puzzle) Will Larson
+* [Do Conversation](https://thedobook.co/products/do-conversation-there-is-no-such-thing-as-small-talk) Robert Poynton
