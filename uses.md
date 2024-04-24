@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Stuff I Use
-date: 2024-04-18
+date: 2024-04-24
 ---
 
 ## Work
@@ -24,7 +24,7 @@ date: 2024-04-18
 - Firefox
 - [Tinkerwell](https://tinkerwell.app)
 - [Laravel Herd](https://herd.laravel.com)
-- Terminal.app
+- [Warp](https://www.warp.dev)
 
 #### Work
 
@@ -82,6 +82,8 @@ date: 2024-04-18
 - Theragun Pro
 - Withings Body Cardio smart scale
 - Withings BPM Connect blood pressure cuff
+
+...none of which I use anywhere near as much as I should!
 
 ### Services
 
