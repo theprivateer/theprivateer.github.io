@@ -8,6 +8,7 @@ These are all sites I like because of the content, the topics, the writing style
 
 - [adriano.fyi](https://adriano.fyi)
 - [birchtree.me](https://birchtree.me)
+- [bradbarrish.com](https://bradbarrish.com)
 - [carlbarenbrug.com](https://carlbarenbrug.com)
 - [chrisbailey.com](https://chrisbailey.com)
 - [chrishannah.me](https://chrishannah.me)
