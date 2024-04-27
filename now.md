@@ -2,12 +2,12 @@
 layout: page
 title: Now
 permalink: /now/
-date: 2024-04-24
+date: 2024-04-28
 ---
 
-_Updated 24 April 2024_
+_Updated 28 April 2024_
 
-😵‍💫 Getting over the jetlag (and general exhaustion) of the family trip to the UK. Figuring out what my next big focus will be.
+🛠️ Doing general maintenance and upkeep around the house, knocking off all the jobs that have been lingering and bringing our living and entertaining spaces back to their former glory.
 
 📚 Reading [Project Hail Mary](https://www.kobo.com/au/en/ebook/project-hail-mary) Andy Weir. Been a little while since I've read some fiction.
 
