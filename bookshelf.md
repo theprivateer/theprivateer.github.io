@@ -6,6 +6,7 @@ title: Bookshelf
 
 #### 2023
 
+* [Project Hail Mary](https://www.kobo.com/au/en/ebook/project-hail-mary) by Andy Weir
 * [The Atlas Six](https://www.kobo.com/au/en/ebook/the-atlas-six-the-atlas-book-1) by Olivie Blake
 * [Abaddon's Gate](https://www.kobo.com/au/en/ebook/abaddon-s-gate-1) by James S. A. Corey
 * [Caliban's War](https://www.kobo.com/au/en/ebook/caliban-s-war-1) by James S. A. Corey
