@@ -2,10 +2,10 @@
 layout: page
 title: Now
 permalink: /now/
-date: 2024-04-28
+date: 2024-05-09
 ---
 
-_Updated 28 April 2024_
+_Updated 9 May 2024_
 
 🛠️ Doing general maintenance and upkeep around the house, knocking off all the jobs that have been lingering and bringing our living and entertaining spaces back to their former glory.
 
