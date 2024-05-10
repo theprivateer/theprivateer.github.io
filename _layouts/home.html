@@ -15,6 +15,9 @@ layout: default
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
+            {%- if post.tags contains "365 Albums" and post.artist -%}
+            &nbsp;(365 Albums)
+            {%- endif -%}
           </a>
         </h3>
         {%- if site.show_excerpts -%}

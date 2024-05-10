@@ -1,0 +1,45 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header" style="display: flex;">
+    <div style="max-width: 50%; margin-right: 1rem;">
+        <img src="{{ page.artwork }}" alt="{{ page.title }}">
+    </div>
+
+    <div>
+        <h1 class="post-title p-name" itemprop="name headline">
+            {{ page.title | escape }}
+        </h1>
+
+        <h2>
+            {{ page.artist }} ({{ page.released }})
+        </h2>
+
+        <p>
+            <a href="{{ page.listen }}">Listen Here</a>
+        </p>
+    </div>
+  </header>
+
+  <p class="post-meta">
+    <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {{ page.date | date: date_format }}
+    </time>
+    {%- if page.author -%}
+      • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+    {%- endif -%}</p>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+
+    <p><em>This is an entry in the <a href="/blog/365-albums">365 Albums Project</a> in which I plan on posting one album I enjoy every day for a full year.</em></p>
+  </div>
+
+  <div>
+    <a href="mailto:phils@hey.com?subject={{ page.title | escape }}">Reply via email</a>
+  </div>
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>
