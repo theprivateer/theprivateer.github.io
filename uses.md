@@ -1,15 +1,17 @@
 ---
 layout: page
 title: Stuff I Use
-date: 2024-04-24
+date: 2024-05-10
 ---
+
+_Updated 10 May 2024_
 
 ## Work
 
 ### Hardware
 
 - 13" M1 MacBook Pro (a 16GB Space Grey model provided by my employer, and an 8GB Silver model for personal use)
-- Samsung CH89 34" curved monitor (mounted on a monitor arm to save desk space)
+- Samsung CH89 34" curved monitor (mounted on a generic monitor arm to save desk space)
 - Logitech MX Mechanical Mini wireless keyboard
 - Logitech MX Vertical wireless mouse
 - Logitech Streamcam
@@ -33,7 +35,7 @@ date: 2024-04-24
 - Docker
 - [Lens](https://k8slens.dev)
 - Google Meet
-- [RapidAPI (previously known as Paw)](https://paw.cloud)
+- [RapidAPI](https://paw.cloud)
 
 #### Life
 
@@ -82,8 +84,7 @@ date: 2024-04-24
 - Theragun Pro
 - Withings Body Cardio smart scale
 - Withings BPM Connect blood pressure cuff
-
-...none of which I use anywhere near as much as I should!
+- [Kiva Wellness Rise Far-Infrared Sauna](https://kivawellness.com.au/products/kiva-wellness-infra-red-sauna-2-person)
 
 ### Services
 
@@ -91,8 +92,6 @@ Whilst I do have accounts with other services that I may use occassionally, thes
 
 - Apple One (iCloud, Music, Apple TV+) - this is a devisive one as I am trying to phase out reliance on Apple services, but the family is still deeply entrenched.
 - Netflix
-- Paramount+ (mainly for [A-Leagues](https://aleagues.com.au) coverage)
-
 
 ## Cycling
 
