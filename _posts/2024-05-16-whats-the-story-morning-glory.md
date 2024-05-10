@@ -8,3 +8,4 @@ listen: https://album.link/i/255843292
 tag: 365 Albums
 date: 2024-05-16
 ---
+Any self-respecting Brit growing up in the 90’s has a soft-spot for Oasis - this is the soundtrack of my teenage years.
